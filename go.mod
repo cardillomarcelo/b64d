@@ -1,3 +1,3 @@
-module awesomeProject1
+module b64d
 
 go 1.22
